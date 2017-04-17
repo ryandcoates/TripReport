@@ -22,7 +22,7 @@
 | Major Takeaways | [Session Takeaways] |
 | Action Items | [Next Steps] |
 | Estimated Value | [Define ROI] |
-</br>
+<br>
 
 | Networking Info | [Repeat per networking event] |
 | --- | - |
