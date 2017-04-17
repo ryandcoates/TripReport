@@ -3,14 +3,14 @@
 * [Date]
 * [Attendee]
 
-## What is this conference
+## What is [Conference]
 [Describe the event and its intended purpose]
 
-## Why this conference
+## Why I chose to attend [Conference]
 [Describe why you opted to attend this conference, and what you hoped to learn]
 
-## What did I learn
-[Provide a summery of what you learned during the conrerence and then mroe detail for each session]
+## Takeaways
+[Provide a summary of what you learned during the conrerence and then more detail for each session]
 
 ## Detailed Session Information
 
